@@ -1,6 +1,6 @@
 # 👋 Welcome, to fucking.
 - 🎮 Interested in game development
-- 💻 Programming in Haxe & Godot
+- 💻 Programming in Haxe, Lua, & Godot
 - 🤝 Contact me on Discord (`swordcube`) if you need help with Haxe or Godot!
 
 # 📢 Main Projects
