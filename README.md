@@ -7,3 +7,8 @@
 - [👨 Guy: The Game](https://github.com/swordcube/stick-guy-the-game)
 - [⌨️ Subpar Rhythm](https://github.com/swordcube/SubparRhythm)
 - [➡️ FNF: Nova Engine (DEVELOPMENT PAUSED)](https://github.com/swordcube/NovaEngine-Godot-FNF)
+
+# 🗝 Older Projects
+You can find some of my older projects on this profile,
+
+but many of them are on **[@swordcube-archives](https://github.com/swordcube-archives)** instead.
