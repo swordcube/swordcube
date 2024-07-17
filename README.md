@@ -1,7 +1,7 @@
 # 👋 Welcome, to fucking.
 - 🎮 Interested in game development
 - 💻 Programming in Haxe, Lua, & Godot
-- 🤝 Contact me on Discord (`swordcube`) if you need help with Haxe or Godot!
+- 🤝 Contact me on Discord (`swordcube.gov`) if you need help with Haxe or Godot!
 
 # 📢 Main Projects
 - [👨 Guy: The Game](https://github.com/swordcube/stick-guy-the-game)
