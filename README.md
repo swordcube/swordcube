@@ -12,3 +12,9 @@
 You can find some of my older projects on this profile,
 
 but many of them are on **[@swordcube-archives](https://github.com/swordcube-archives)** instead.
+
+# 💡 Statistics
+
+![swordcube's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordcube&show_icons=true&theme=holi&count_private=true)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordcube&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
