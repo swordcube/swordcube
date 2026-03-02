@@ -9,6 +9,6 @@ go to the [archives](https://github.com/swordcube-archives) to find some of my o
 # statistics
 if you're interested in those then um the  um the yeam
 
-[![swordcube's GitHub stats](https://github-readme-stats.vercel.app/api?username=swordcube&show_icons=true&theme=holi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![swordcube's GitHub stats](https://github-stats-extended.vercel.app/api?username=swordcube&show_icons=true&theme=holi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordcube&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=swordcube&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
